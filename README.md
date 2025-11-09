@@ -36,3 +36,5 @@ The dataset includes Amazon product sales records with fields such as:
 ## Final Conclusion
 This dashboard delivers a complete overview of Amazon’s product performance, helping stakeholders understand sales patterns, top-profit categories, and consumer engagement levels. It serves as a powerful decision-support tool for planning marketing strategies, inventory management, and category-level growth actions.
 
+## Dashboard Interaction
+   <a href="https://github.com/Tabish247/Amazon-Sales-Analysis/blob/main/Screenshot%202025-11-10%20011138.png">View Dashboard</a>
